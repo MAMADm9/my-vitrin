@@ -14,9 +14,13 @@ jobs:
       - run: pip install requests
       - run: python sweeper.py
       - run: |
-          git config --global user.name "Bot"
+          git config --global user.name "Officer-MmD-Bot"
           git config --global user.email "bot@github.com"
           git add data.txt
-          git commit -m "Update" || exit 0
-          git push
+          if git diff --staged --quiet; then
+            echo "No changes found in configs."
+          else
+            git commit -m "Auto-update: $(date +'%Y-%m-%d %H:%M')"
+            git push
+          fi
           
