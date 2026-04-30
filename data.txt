@@ -11,6 +11,7 @@ vless://ffca22d4-e1dc-406a-8346-f20c4f09b78e@185.143.233.43:80?path=%2F#TEST_HTM
 vless://1f5358e8-f57c-44b8-9864-9c236672fbc8@185.143.233.235:80?path=%2F#TEST_HTM
 vless://99f3278e-79cc-4de5-919c-e6b48e4024c5@snappfood.ir:80?path=%2Fws#TEST_HTM
 vless://d4632a9f-8066-4bc8-ab8e-a63e90a84534@snapp.ir:80?path=%2F#TEST_HTM
+vless://54181d14-52af-4b53-9d6e-d0971279baed@snapp.ir:2086?path=%2F#TEST_HTM
 vless://ea227ffd-be0c-4acd-a70c-9b6b4777d862@185.143.234.235:80?security=none#planB_net
 vmess://eyJhZGQiOiJ2MTEubWFpbGlyYW4ubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjgyNTdiMzFlLTA4MDUtNGYyOC05MjA5LTI1MWI3MmI5YTU5MyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTE5OTkiLCJwcyI6IiNodHRwczovL3QubWUvUGxhbkJfbmV0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9#planB_net
 vless://e7d1cd9a-418c-4381-8dcf-758c2a571f30@react.dev:443?mode=auto#planB_net
