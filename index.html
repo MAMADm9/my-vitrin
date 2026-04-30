@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ویترین MAMAD</title>
     <style>
         * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
         body { background: #000; color: #fff; font-family: sans-serif; margin: 0; display: flex; flex-direction: column; align-items: center; }
@@ -18,14 +17,51 @@
         .desc-text { color: #e0ddd5; text-align: center; font-size: 13px; margin-top: 25px; line-height: 1.8; }
         .warning-text { color: #ffff00; text-align: center; font-size: 13px; margin: 20px 10px; line-height: 1.8; border: 1px solid #ffff0044; padding: 12px; border-radius: 15px; background: rgba(255, 255, 0, 0.05); }
         .final-gold { text-align: center; margin: 20px 0 50px 0; font-size: 20px; color: #ffcc00; font-weight: bold; direction: ltr !important; }
-        #loading { text-align: center; color: #00f3ff; margin: 20px; font-size: 14px; }
     </style>
 </head>
 <body>
-
     <div id="app">
         <div class="main-title">MAMAD</div>
-        
-        <div id="loading">در حال بارگیری کانفیگ‌ها... ⏳</div>
-        <div id="configs-list"></div>
-        
+        <div id="configs-list"><p style="text-align:center; color:#00f3ff;">در حال بارگیری...</p></div>
+        <div class="desc-text">آیدی تمامی چنل ها پایین هر کانفیگ قرار گرفته ❤️</div>
+        <div class="warning-text">بیشتر کانفیگ‌ها جهت تست بوده؛ هیچ خریدی نکنید.</div>
+        <div class="final-gold">TNX SHΞN™</div>
+    </div>
+
+    <script>
+        async function fetchConfigs() {
+            try {
+                // آدرس مستقیم فایل Raw برای دور زدن کش
+                const url = 'https://raw.githubusercontent.com/MAMADm9/my-vitrin/main/data.txt?v=' + Date.now();
+                const response = await fetch(url);
+                const data = await response.text();
+                const lines = data.trim().split('\n').filter(l => l.includes('://'));
+                const container = document.getElementById('configs-list');
+                
+                if (lines.length === 0) { container.innerHTML = "<p style='text-align:center;'>هنوز دیتایی ثبت نشده.</p>"; return; }
+                
+                container.innerHTML = '';
+                lines.forEach((line, i) => {
+                    const [config, channel] = line.split('#');
+                    container.innerHTML += `
+                        <div class="card">
+                            <div class="header">
+                                <div class="num">#${i+1}</div>
+                                <button class="btn-copy" onclick="copyC('${config}', this)">کپی</button>
+                            </div>
+                            <div class="txt-area">${config}</div>
+                            <div class="footer-id">🆔 @${channel || 'Channel'}</div>
+                        </div>`;
+                });
+            } catch (e) { document.getElementById('configs-list').innerText = "خطا در بارگیری!"; }
+        }
+
+        function copyC(txt, btn) {
+            navigator.clipboard.writeText(txt);
+            btn.innerText = 'کپی شد!'; btn.style.background = '#fff';
+            setTimeout(() => { btn.innerText = 'کپی'; btn.style.background = '#00f3ff'; }, 1000);
+        }
+        fetchConfigs();
+    </script>
+</body>
+</html>
