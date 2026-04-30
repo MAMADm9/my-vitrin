@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ویترین ماماد</title>
+    <title>ویترین MAMAD</title>
     <style>
         * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
         body { background: #000; color: #fff; font-family: sans-serif; margin: 0; display: flex; flex-direction: column; align-items: center; }
@@ -18,7 +18,7 @@
         .desc-text { color: #e0ddd5; text-align: center; font-size: 13px; margin-top: 25px; line-height: 1.8; }
         .warning-text { color: #ffff00; text-align: center; font-size: 13px; margin: 20px 10px; line-height: 1.8; border: 1px solid #ffff0044; padding: 12px; border-radius: 15px; background: rgba(255, 255, 0, 0.05); }
         .final-gold { text-align: center; margin: 20px 0 50px 0; font-size: 20px; color: #ffcc00; font-weight: bold; direction: ltr !important; }
-        #loading { text-align: center; color: #00f3ff; margin: 20px; font-weight: bold; }
+        #loading { text-align: center; color: #00f3ff; margin: 20px; font-size: 14px; }
     </style>
 </head>
 <body>
@@ -28,42 +28,4 @@
         
         <div id="loading">در حال بارگیری کانفیگ‌ها... ⏳</div>
         <div id="configs-list"></div>
-
-        <div class="desc-text">
-            آیدی تمامی چنل هایی که کانفیگ ها از ان جمع آوری شده <br> 
-            پایین هر کانفیگ قرار گرفته ❤️
-        </div>
-
-        <div class="warning-text">
-            بیشتر کانفیگ‌هایی که اینجا مورد استفاده قرار گرفته شده، جهت تست برای خرید بوده؛ شما اصلاً هیچ خریدی نکنید و به هیچ وجه به آن‌ها اعتماد نکنید.
-        </div>
         
-        <div class="final-gold">TNX SHΞN™</div>
-    </div>
-
-    <script>
-        async function fetchConfigs() {
-            try {
-                // استفاده از لینک مستقیم (Raw) برای اطمینان از آپدیت لحظه‌ای
-                const response = await fetch('https://raw.githubusercontent.com/MAMADm9/my-vitrin/main/data.txt');
-                const data = await response.text();
-                const lines = data.trim().split('\n');
-                
-                const listContainer = document.getElementById('configs-list');
-                const loadingText = document.getElementById('loading');
-                
-                if (!data.trim()) {
-                    loadingText.innerText = "فعلاً کانفیگی در ویترین نیست! ⛔";
-                    return;
-                }
-
-                loadingText.style.display = 'none';
-                listContainer.innerHTML = '';
-
-                lines.forEach((line, index) => {
-                    const parts = line.split('#');
-                    const config = parts[0];
-                    const channel = parts[1] || 'Unknown';
-
-                    const cardHtml
-                    
