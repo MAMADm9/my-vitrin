@@ -6,21 +6,22 @@ on:
 jobs:
   run-bot:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
         with:
           python-version: '3.x'
       - run: pip install requests
       - run: python sweeper.py
-      - run: |
+      - name: Commit and Push
+        run: |
           git config --global user.name "Officer-MmD-Bot"
           git config --global user.email "bot@github.com"
           git add data.txt
-          if git diff --staged --quiet; then
-            echo "No changes found in configs."
-          else
-            git commit -m "Auto-update: $(date +'%Y-%m-%d %H:%M')"
-            git push
-          fi
+          git commit -m "Update: $(date)" || exit 0
+          git push
           
