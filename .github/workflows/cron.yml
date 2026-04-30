@@ -8,8 +8,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      pages: write
-      id-token: write
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
@@ -22,6 +20,7 @@ jobs:
           git config --global user.name "Officer-MmD-Bot"
           git config --global user.email "bot@github.com"
           git add data.txt
-          git commit -m "Update: $(date)" || exit 0
+          # اگه تغییری نبود هم یه کامیت فیک می‌زنیم که سیستم آپدیت شه
+          git commit -m "Auto-update: $(date)" || git commit --allow-empty -m "Heartbeat update"
           git push
           
