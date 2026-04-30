@@ -3,57 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ویترین کانفیگ Officer MmD</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
-        * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
-        body { background: #000; color: #fff; font-family: sans-serif; margin: 0; display: flex; flex-direction: column; align-items: center; }
-        #app { width: 100%; max-width: 420px; padding: 15px; }
-        .main-title { text-align: center; font-size: 55px; font-weight: 900; color: #fff; text-shadow: 0 0 10px #00f3ff, 0 0 20px #7000ff; margin: 30px 0; letter-spacing: 10px; }
-        .card { background: #0d0d0d; border: 1px solid #1a1a1a; border-radius: 25px; padding: 20px; margin-bottom: 25px; border-bottom: 4px solid #00f3ff; }
-        .header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; }
-        .num { font-size: 32px; font-weight: 900; color: #00f3ff; }
-        .btn-copy { background: #00f3ff; border: none; color: #000; padding: 12px 28px; border-radius: 15px; font-weight: bold; cursor: pointer; }
-        .txt-area { background: #050505; border: 1px solid #333; color: #00f3ff; padding: 15px; font-family: monospace; font-size: 11px; border-radius: 12px; word-break: break-all; margin-bottom: 15px; direction: ltr; text-align: left; line-height: 1.6; min-height: 40px; }
-        .footer-id { text-align: center; font-size: 18px; font-weight: bold; border-top: 1px solid #222; padding-top: 12px; min-height: 40px; }
-        .desc-text { color: #e0ddd5; text-align: center; font-size: 13px; margin-top: 25px; line-height: 1.8; }
-        .warning-text { color: #ffff00; text-align: center; font-size: 13px; margin: 20px 10px; line-height: 1.8; border: 1px solid #ffff0044; padding: 12px; border-radius: 15px; background: rgba(255, 255, 0, 0.05); }
-        .final-gold { text-align: center; margin: 20px 0 50px 0; font-size: 20px; color: #ffcc00; font-weight: bold; direction: ltr !important; }
+        body { background-color: #121212; color: #e0e0e0; font-family: Tahoma, Geneva, sans-serif; }
+        .config-card { background: #1e1e1e; border: 1px solid #333; border-radius: 12px; transition: 0.3s; margin-bottom: 20px; }
+        .config-card:hover { transform: translateY(-5px); border-color: #00adb5; }
+        .btn-copy { background-color: #00adb5; color: white; border: none; }
+        .btn-copy:hover { background-color: #008f96; }
+        .badge-channel { background-color: #393e46; color: #00adb5; }
     </style>
 </head>
 <body>
-
-    <div id="app">
-        <div class="main-title">MAMAD</div>
-        
-        <div class="card">
-            <div class="header">
-                <div class="num">#1</div>
-                <button class="btn-copy" onclick="
-                    var t = this.parentElement.nextElementSibling.innerText;
-                    var a = document.createElement('textarea');
-                    a.value = t;
-                    document.body.appendChild(a);
-                    a.select();
-                    document.execCommand('copy');
-                    document.body.removeChild(a);
-                    var b = this; var o = b.innerText; b.innerText='کپی شد!'; b.style.background='#fff';
-                    setTimeout(function(){ b.innerText=o; b.style.background='#00f3ff'; }, 1000);
-                ">کپی</button>
-            </div>
-            <div class="txt-area"></div>
-            <div class="footer-id">🆔 </div>
-        </div>
-
-        <div class="desc-text">
-            آیدی تمامی چنل هایی که کانفیگ ها از ان جمع آوری شده <br> 
-            پایین هر کانفیگ قرار گرفته ❤️
-        </div>
-
-        <div class="warning-text">
-            بیشتر کانفیگ‌هایی که اینجا مورد استفاده قرار گرفته شده، جهت تست برای خرید بوده؛ شما اصلاً هیچ خریدی نکنید و به هیچ وجه به آن‌ها اعتماد نکنید.
-        </div>
-        
-        <div class="final-gold">TNX SHΞN™</div>
+    <div class="container py-5">
+        <h1 class="text-center mb-4">💎 ویترین کانفیگ‌های زنده</h1>
+        <div id="loading" class="text-center">در حال بارگذاری کالاها...</div>
+        <div id="config-container" class="row"></div>
     </div>
-
-</body>
-</html>
+    
