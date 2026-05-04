@@ -13,6 +13,7 @@ vless://99f3278e-79cc-4de5-919c-e6b48e4024c5@snappfood.ir:80?path=%2Fws#TEST_HTM
 vless://d4632a9f-8066-4bc8-ab8e-a63e90a84534@snapp.ir:80?path=%2F#TEST_HTM
 vless://54181d14-52af-4b53-9d6e-d0971279baed@snapp.ir:2086?path=%2F#TEST_HTM
 vless://3ef809e4-cdbb-40a7-897f-63025fe718b7@ninisite.com:2052?encryption=none#isor1n
+vless://793be1ac-1869-4293-929c-0ddfdcb0cfe4@185.143.233.5:443?encryption=none#isor1n
 vless://57847df6-3ef1-477f-986c-c8dfb55d4160@185.143.233.235:80?path=%2F#planB_net
 vless://b6a8a9ca-8feb-451b-bf07-1732abe66f65@185.143.233.5:443?path=%2Fchat%3Fed%3D128#planB_net
 vless://e697a5e8-9d65-4ab5-9f69-22559c3402e8@185.143.233.5:443?path=%2Fchat%3Fed%3D128#planB_net
