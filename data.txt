@@ -12,17 +12,6 @@ vless://1f5358e8-f57c-44b8-9864-9c236672fbc8@185.143.233.235:80?path=%2F#TEST_HT
 vless://99f3278e-79cc-4de5-919c-e6b48e4024c5@snappfood.ir:80?path=%2Fws#TEST_HTM
 vless://d4632a9f-8066-4bc8-ab8e-a63e90a84534@snapp.ir:80?path=%2F#TEST_HTM
 vless://54181d14-52af-4b53-9d6e-d0971279baed@snapp.ir:2086?path=%2F#TEST_HTM
-vless://6521fefb-2d14-4ba9-8cbe-729174be69e7@5.159.54.140:443?encryption=none#isor1n
-vless://d0daba4a-d792-4588-a81c-f5743f423c29@5.159.54.140:443?encryption=none#isor1n
-vless://f76af560-6a57-4c1f-9a83-d76492b7bbd4@5.159.54.140:443?encryption=none#isor1n
-vless://498950ad-aab1-4e48-acc3-a886ad911b9d@5.159.54.140:443?encryption=none#isor1n
-vless://3dd18d90-6bea-4c9a-ab37-63e89b7700ca@5.159.54.140:443?encryption=none#isor1n
-vless://4d400592-45a1-4e05-80f6-8581658e71eb@5.159.54.140:443?encryption=none#isor1n
-vless://01e06ef9-dd8c-44df-81b7-5150cc301026@dream.nightwolf.shop:5325?encryption=none#isor1n
-vless://215ec98b-04d6-4ddd-9a51-b7f65d45d86f@dream.nightwolf.shop:5325?encryption=none#isor1n
-vless://b85d7dfc-64af-43e6-b212-a53073859b5e@dream.nightwolf.shop:5325?encryption=none#isor1n
-vless://44203abd-18b1-4316-b972-a37e8bbce930@tik.var.hi-phonee.ir:50216?encryption=none#isor1n
-vless://c44c5da4-aa85-48ce-9ec6-6e742431d9e9@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128#planB_net
 vmess://eyJhZGQiOiJhLmJ5c3Ryb28uc2hvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjMzA5MjFhYy04MmY4LTQ0ZDUtYmU2Mi1mZDdiYTAyYTFiZTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMxMDQxIiwicHMiOiJAcGxhbkJfbmV0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#planB_net
 vless://1bfba457-f37a-45e6-a7e3-3704b06f71c6@snappy.ir:2087?path=%2F#planB_net
 vless://9da53a47-c3c8-4581-b957-dad5c4c3d96d@shop.shadowroute.site:443?path=%2F#planB_net
