@@ -15,9 +15,9 @@ vless://54181d14-52af-4b53-9d6e-d0971279baed@snapp.ir:2086?path=%2F#TEST_HTM
 vless://d73133d0-8943-4cf0-ae2c-293e6244ebe6@snapp.ir:80?type=ws#isor1n
 vless://873c51f6-9357-4c2a-a44d-be64a117ee3f@snapp.ir:80?type=ws#isor1n
 vless://121e5910-f79a-47a0-a300-87f4e7e55647@snapp.ir:80?type=ws#isor1n
-vmess://eyJhZGQiOiJhLmJ5c3Ryb28uc2hvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjMzA5MjFhYy04MmY4LTQ0ZDUtYmU2Mi1mZDdiYTAyYTFiZTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMxMDQxIiwicHMiOiJAcGxhbkJfbmV0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#planB_net
 vless://1bfba457-f37a-45e6-a7e3-3704b06f71c6@snappy.ir:2087?path=%2F#planB_net
 vless://9da53a47-c3c8-4581-b957-dad5c4c3d96d@shop.shadowroute.site:443?path=%2F#planB_net
 vless://44d701d0-115b-432e-8c50-46966ecd3d61@s4.tehranionliine.ir:80?path=%2F#planB_net
 vless://ecb703b3-8203-41e7-9ecf-e9cf4300edbf@Ikco.ir:8080?path=%2Fcdn#planB_net
 vless://c09816d1-9b53-4e0d-85a8-9def477121ab@snappfood.ir:80?path=%2Fws#planB_net
+vless://fd6a4ad3-13cf-4996-bb44-ebc7687fe291@arvancloud.ir:80?path=%2F#planB_net
