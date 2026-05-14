@@ -16,7 +16,6 @@ vless://f935cf30-087a-4cd0-9a75-26f529ee6df5@varzesh3.com:80?encryption=none#iso
 vless://6e3be63a-029c-4f13-829b-59c81ef80f69@varzesh3.com:80?encryption=none#isor1n
 vless://b6be03ec-f7f9-4660-b1b7-926d18ee4998@varzesh3.com:80?encryption=none#isor1n
 vless://5cd8ad8a-5aa9-4d3d-81a2-4816ca667441@snapp.ir:80?path=%2Fh#isor1n
-vless://fd6a4ad3-13cf-4996-bb44-ebc7687fe291@arvancloud.ir:80?path=%2F#planB_net
 vless://27365cbd-6226-41f1-a561-f3ad7c9c7fb3@50.7.4.106:8443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN#planB_net
 vless://27365cbd-6226-41f1-a561-f3ad7c9c7fb3@50.7.4.107:8443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN#planB_net
 vless://27365cbd-6226-41f1-a561-f3ad7c9c7fb3@50.7.4.243:8443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN#planB_net
