@@ -25,3 +25,4 @@ vless://437bb368-9d3d-4fb7-a464-8f30806233b0@cdn3.whitepol4.ir:2052?path=%2F#pla
 vless://4e050c1e-bb17-5cc9-b76f-f89bcb8dc5c1@185.126.6.183:443?encryption=none#planB_net
 vless://38d02978-1f87-46ff-bc26-34a61c271452@185.143.235.200:80?encryption=none#planB_net
 vless://6129aa19-005b-4e80-9711-7060c9d9f58f@185.143.233.5:2082?encryption=none#planB_net
+vless://8be1e780-46e4-4363-b59d-a9ee9ca662ef@cdn.applly.ir:2095?path=%2F#planB_net
