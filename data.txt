@@ -40,4 +40,3 @@ vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?encryption=none#pla
 vless://2a8eae54-fdc4-4231-bad7-67a7132b3aa1@84.201.148.90:443?flow=xtls-rprx-vision#planB_net
 vless://2a8eae54-fdc4-4231-bad7-67a7132b3aa1@de.save-node.com:443?flow=xtls-rprx-vision#planB_net
 vless://2a8eae54-fdc4-4231-bad7-67a7132b3aa1@5.188.115.116:443?flow=xtls-rprx-vision#planB_net
-vless://6a719f2b-b629-462d-975a-9c0daa3edb75@chatgpt.com:2083?path=%2F#planB_net
