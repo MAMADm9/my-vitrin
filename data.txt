@@ -33,7 +33,6 @@ trojan://q6UYkw9nUn6MYZz8Sp@ty-3.tr202604.com:443?type=tcp#isor1n
 trojan://q6UYkw9nUn6MYZz8Sp@ty-2.tr202604.com:443?type=tcp#isor1n
 trojan://q6UYkw9nUn6MYZz8Sp@ty-1.tr202604.com:443?type=tcp#isor1n
 trojan://q6UYkw9nUn6MYZz8Sp@v6-us3.tr202604.co…#isor1n
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.16.79.73:443?security=tls#planB_net
 vless://6a719f2b-b629-462d-975a-9c0daa3edb75@129.6.29.253:443?encryption=none#planB_net
 vless://187c6c51-4ef8-47e9-9f8a-eefa680d543e@room.quietgarden.live:443?encryption=none#planB_net
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?encryption=none#planB_net
