@@ -13,4 +13,5 @@ vless://99f3278e-79cc-4de5-919c-e6b48e4024c5@snappfood.ir:80?path=%2Fws#TEST_HTM
 vless://d4632a9f-8066-4bc8-ab8e-a63e90a84534@snapp.ir:80?path=%2F#TEST_HTM
 vless://54181d14-52af-4b53-9d6e-d0971279baed@snapp.ir:2086?path=%2F#TEST_HTM
 vless://6f2a99c7-d29b-44d1-aadc-b9f3b382233c@95.179.245.139:56190?security=tls#isor1n
+vless://4e4d0a09-55f6-454d-98e5-0a8aed6a03e7@50.85.80.187:12217/?type=grpc#isor1n
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#%40planB_net#planB_net
