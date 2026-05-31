@@ -12,4 +12,3 @@ vless://1f5358e8-f57c-44b8-9864-9c236672fbc8@185.143.233.235:80?path=%2F#TEST_HT
 vless://99f3278e-79cc-4de5-919c-e6b48e4024c5@snappfood.ir:80?path=%2Fws#TEST_HTM
 vless://d4632a9f-8066-4bc8-ab8e-a63e90a84534@snapp.ir:80?path=%2F#TEST_HTM
 vless://54181d14-52af-4b53-9d6e-d0971279baed@snapp.ir:2086?path=%2F#TEST_HTM
-vless://da33b359-1ccf-4975-8eba-25b101838a83@98.64.210.121:26260?mode=multi#planB_net
