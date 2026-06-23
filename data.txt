@@ -12,8 +12,6 @@ vless://1f5358e8-f57c-44b8-9864-9c236672fbc8@185.143.233.235:80?path=%2F#TEST_HT
 vless://99f3278e-79cc-4de5-919c-e6b48e4024c5@snappfood.ir:80?path=%2Fws#TEST_HTM
 vless://d4632a9f-8066-4bc8-ab8e-a63e90a84534@snapp.ir:80?path=%2F#TEST_HTM
 vless://54181d14-52af-4b53-9d6e-d0971279baed@snapp.ir:2086?path=%2F#TEST_HTM
-vmess://ewogICJhZGQiIDogInBhbmVsLmNwYW5lbC4xMG9mYmVzdC5pciIsCiAgImFpZCIgOiAiMCIsCiAgImFscG4iIDogImh0dHAvMS4xIiwKICAiZnAiIDogIiIsCiAgImhvc3QiIDogIm5sLmNoZWxsc2VydmljZS5pciIsCiAgImlkIiA6ICIzNTdkNzE2MC05ZGM0LTQyNzItOTgwZi01MWQ4MWI0NDgwOWIiLAogICJpbnNlY3VyZSIgOiAiMCIsCiAgIm5ldCIgOiAid3MiLAogICJwYXRoIiA6ICIvIiwKICAicG9ydCIgOiAiMjA1MyIsCiAgInBzIiA6ICLwn4ez8J+HsWxpbHNvcmluICIsCiAgInNjeSIgOiAiYXV0byIsCiAgInNuaSIgOiAibmwuY2hlbGxzZXJ2aWNlLmlyIiwKICAidGxzIiA6ICJ0bHMiLAogICJ0eXBlIiA6ICIiLAogICJ2IiA6ICIyIgp9#isor1n
-vmess://ewogICJhZGQiIDogInBhbmVsLmNwYW5lbC4xMG9mYmVzdC5pciIsCiAgImFpZCIgOiAiMCIsCiAgImFscG4iIDogImh0dHAvMS4xIiwKICAiZnAiIDogIiIsCiAgImhvc3QiIDogIm5sLmNoZWxsc2VydmljZS5pciIsCiAgImlkIiA6ICIzNTdkNzE2MC05ZGM0LTQyNzItOTgwZi01MWQ4MWI0NDgwOWIiLAogICJpbnNlY3VyZSI…#isor1n
 vless://d8d40356-b8db-4203-9e6c-3a74b0256238@104.21.19.124:2087?alpn=h2%2Chttp%2F1.1#isor1n
 vless://d8d40356-b8db-4203-9e6c-3a74b0256238@cdn2.portalcode.ir:2095?type=httpupgrade#isor1n
 vless://d8d40356-b8db-4203-9e6c-3a74b0256238@cdn1.portalcode.ir:2095?type=httpupgrade#isor1n
