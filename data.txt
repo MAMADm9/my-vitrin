@@ -56,6 +56,7 @@ vless://67dad83c-506e-4ed4-976a-7e696642f325@eng.aliyostd.com:9443?security=real
 vless://67dad83c-506e-4ed4-976a-7e696642f325@farnce.aliyostd.com:2096?mode=gun#planB_net
 vless://67dad83c-506e-4ed4-976a-7e696642f325@farnce.aliyostd.com:9443?security=reality#planB_net
 vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@89.127.217.210:2200?path=%2Fv1#planB_net
+vless://4e8cd0d9-b7da-417c-8953-d04c6c57a6c1@cd7bgmsi0a6d.dop69.com:24266?path=%2F#planB_net
 vless://e6805197-9258-d1f3-d9ce-b092a603d517@x4g-production-623f.up.railway.app:443?path=%2Fws%2Fe6805197-9258-d1f3-d9ce-b092a603d517#planB_net
 vless://f27936c6-7e90-e89d-d26c-3a82a5c7f97c@x4g-production-f6fa0.up.railway.app:443?path=%2Fws%2Ff27936c6-7e90-e89d-d26c-3a82a5c7f97c#planB_net
 vless://d9b5b139-36c8-4fda-bcc5-549ae7831643@217.149.22.152:989?security=none#planB_net
