@@ -18,17 +18,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@vpna.poorifast
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands#isor1n
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxbWZsRmZGVnM2cXorUVpHTFFBV3Y1aXBGSnhIYWNDVlpRK0xtQnRxUUgwPQ#isor1n
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ#isor1n
-vless://b8ae8186-22ed-413b-b0de-dc590bbbc3bc@de.hunerux.oorluma.ir:6500?security=reality#planB_net
-vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@193.124.57.208:20342?security=none#planB_net
-vless://c884e818-1f7d-435f-8418-954a0752f434@104.16.155.220:443?path=%2F%3Fu%3Defef7550e1#planB_net
-vless://ad5ff95a-81a8-4006-8771-8e33f0bcd9aa@get.noneok.com:443?mode=gun#planB_net
-vless://fca0002f-1821-498e-85da-132f9c782f6a@69.46.46.24:443?path=%2Fws%2Fvless%2Ffca0002f-1821-498e-85da-132f9c782f6a%3Fed%3D2048#planB_net
-vless://5e1da13a-5080-4089-8403-8d6fbc433946@104.19.149.112:2096?path=%2F#planB_net
-vless://3e3c91c9-f58d-413a-97b7-50773cefe9ab@ezaccess1-luffy-ezaccess1-da21.up.railway.app:443?path=%2Fws%2Fvless%2F3e3c91c9-f58d-413a-97b7-50773cefe9ab%3Fed%3D2048#planB_net
-vless://2ff2d2cc-28b2-45d9-be0e-4feceffb9b6f@roo.paydar.site:27837?security=none#planB_net
-vless://9aed1aaf6573218282565a68995de452@69.46.46.26:443?path=%2Fws%2F9aed1aaf6573218282565a68995de452#planB_net
-trojan://Telegram_healer_config@188.114.96.7:443?path=%2Ftr%2FJ6IJuAAWkqyiEt8UkeRnVdLlkLIGukLr%3Fed%3D2560#planB_net
-vless://6106b853-50ce-4922-bdce-b9384f137e2c@69.46.46.67:443?path=%2Fws%2Fvless%2F6106b853-50ce-4922-bdce-b9384f137e2c%3Fed%3D2048#planB_net
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.20.39.109:443?path=%2Fsg-melbi#planB_net
 vless://Kiyan@ezaccess1-slv-ezaccess1-1077.up.railway.app:443?path=%2Fws%2Fvless%2FKiyan%3Fed%3D2048#planB_net
 vless://5670900d-db88-4815-ac82-1f56337271f0@diligent-laughter-production-f70e.up.railway.app:443?path=%2Fin1#planB_net
