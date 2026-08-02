@@ -18,19 +18,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@vpna.poorifast
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands#isor1n
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxbWZsRmZGVnM2cXorUVpHTFFBV3Y1aXBGSnhIYWNDVlpRK0xtQnRxUUgwPQ#isor1n
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ#isor1n
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.20.39.109:443?path=%2Fsg-melbi#planB_net
-vless://Kiyan@ezaccess1-slv-ezaccess1-1077.up.railway.app:443?path=%2Fws%2Fvless%2FKiyan%3Fed%3D2048#planB_net
-vless://5670900d-db88-4815-ac82-1f56337271f0@diligent-laughter-production-f70e.up.railway.app:443?path=%2Fin1#planB_net
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?path=%2F#planB_net
-vless://d006fdc7-9aed-4763-bc40-e45aa7c54658@165.232.108.151:443?path=%2F#planB_net
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@207.174.133.222:10000?security=none#planB_net
-vless://5b4a36e9-90c5-406d-9e5e-dcad42361bef@3x-ui-production-05e9.up.railway.app:443?path=%2Fin1#planB_net
-vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@172.64.155.209:2053?path=%2FJ5aLQOY1R9ONWYCM#planB_net
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@190.93.246.202:443?path=%2Fsg-melbi#planB_net
-vless://29ca503d-e6b8-4509-b666-48133f450857@icook.hk:443?path=%2Ffdip#planB_net
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.16.239.120:443?path=%2Fsg-melbi#planB_net
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.26.2.173:443?path=%2Fsg-melbi#planB_net
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@188.114.98.66:443?path=%2Fsg-melbi#planB_net
 vless://21648f63-adde-4981-b01b-1c48dc1cdfde@87.120.106.226:29267?mode=auto#planB_net
 vless://43abfc3a-15fc-4e72-9362-a48a503aad68@nd2.fastcodz.ir:57367?security=reality#planB_net
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.197.216:22222?security=#planB_net
@@ -38,6 +25,7 @@ vless://8743f5ae-b104-441f-a431-2aa11ab8410f@global.parssahar.com:443?path=%2Fas
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.204.220:22222?security=none#planB_net
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.204.220:22224?security=none#planB_net
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.204.220:22223?security=none#planB_net
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.26.2.173:443?path=%2Fsg-melbi#planB_net
 vless://effbbd2e-c7cf-797d-852e-d7d73a1cc634@d.mezmora.ir:80?security=none#planB_net
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=%2FLeviko_v2ray#planB_net
 vless://29ca503d-e6b8-4509-b666-48133f450857@104.18.42.68:8443?path=%2Ffdip#planB_net
