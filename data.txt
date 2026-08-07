@@ -13,6 +13,7 @@ vless://99f3278e-79cc-4de5-919c-e6b48e4024c5@snappfood.ir:80?path=%2Fws#TEST_HTM
 vless://d4632a9f-8066-4bc8-ab8e-a63e90a84534@snapp.ir:80?path=%2F#TEST_HTM
 vless://54181d14-52af-4b53-9d6e-d0971279baed@snapp.ir:2086?path=%2F#TEST_HTM
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@38.54.9.181:3306#%F0%9F%87%A6%F0%9F%87%AA%20Dubai%2C%20DU%2C%20United%20Arab%20Emirates#isor1n
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@38.54.9.181:3306#%F0%9F%87%A6%F0%9F%87%AA%20Dubai%2C%20DU%2C%20United%20Arab%20Emirates#isor1n
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@vpna.poorifast.ir:1080#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye#isor1n
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands#isor1n
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxbWZsRmZGVnM2cXorUVpHTFFBV3Y1aXBGSnhIYWNDVlpRK0xtQnRxUUgwPQ#isor1n
@@ -130,13 +131,11 @@ vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.29.111.147:2087?path=%2Fsg-melb
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.21.6.54:2083?path=%2Fsg-melbi#planB_net
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@89.116.161.84:2087?path=%2Fsg-melbi#planB_net
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@94.247.142.167:443?path=%2Fsg-melbi#planB_net
-vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none#planB_net
-vless://243ae85b-4f6e-48f3-9220-715312364dd7@edfgh.fr.frg.systemcont.ir:8080?security=none#planB_net
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@45.143.201.8:443?security=reality#planB_net
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?security=tls#planB_net
-vless://2dc0a3d1-09a3-42e9-b608-da257b03ad63@xn--zn-gpa36i.paydar.site:443?security=none#planB_net
 vless://dbeffc3c-529b-4c25-9fd9-9f0969380534@37.77.105.11:445?security=none#planB_net
-vless://3f8af6ef-621d-42da-9266-c66530c1145c@tom.myona.top:49471?path=%2F#planB_net
-vless://dbeffc3c-529b-4c25-9fd9-9f0969380534@37.77.105.11:420?security=none#planB_net
-vless://d197e9c8-6b92-c7b7-b145-3ff79dead74b@69.46.46.20:443?path=%2Fws%2Fd197e9c8-6b92-c7b7-b145-3ff79dead74b#planB_net
+vless://fee1da7e-a258-4456-8e5e-8ecf6518ed12@104.21.19.76:2096?path=%2FeyJqdW5rIjoiemxGMEFDU1VDRyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0#planB_net
+vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.87:443?mode=gun#planB_net
+vless://f04c31f7-cfab-4824-d167-4137d836ea82@i3.cloud--vpn.site:443?path=%2F#planB_net
+vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@u.cryptoofarm.com:2053?mode=gun#planB_net
+trojan://humanity@45.80.111.7:443?path=%2Fassignment#planB_net
 trojan://humanity@104.18.12.149:443?path=%2Fassignment#planB_net
