@@ -152,4 +152,3 @@ vless://b9ab32b7-a5f3-43b2-9f3a-9544b50f96b1@www.speedtest.net:443?path=%2FeyJqd
 vless://518de0d4-6ce8-4404-80db-23c4a8806128@www.speedtest.net:443?path=%2FeyJqdW5rIjoiQkFLTnhqM2tZTSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D#planB_net
 vless://81df88b4-ab24-4510-dc5f-7ebdbf24ff0a@a2.arshia-nova.ir:443?path=%2F#planB_net
 vless://8a36be1d-7c78-4885-8a1f-bedf5ba7db1c@www.speedtest.net:443?path=%2FrN50nmm9L1DeY73C%3Fed#planB_net
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?path=TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN%3Fed%3D512#planB_net
