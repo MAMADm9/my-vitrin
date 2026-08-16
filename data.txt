@@ -148,3 +148,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.157.224.206:22224?security=none#
 vless://bb6c32f5-69de-3113-45d7-0dc78821038b@69.46.46.123:443?path=%2Fws%2Fbb6c32f5-69de-3113-45d7-0dc78821038b#planB_net
 vless://c0f16ee2-a909-4890-ab1c-96489230658a@172.64.80.1:443?path=%2Fvless#planB_net
 vless://ca599ed4-f7a0-4ddf-a45d-3cb6276d6cd7@67.159.42.154:443?path=%2Fapi%2Fconnect#planB_net
+vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@81.31.210.138:443?security=reality#planB_net
+vless://a7e533d4-c9b7-4575-a7e9-54a6e6e27db0@31.77.204.133:443?security=reality#planB_net
+vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@81.95.4.189:443?path=%2Fvws%2F#planB_net
