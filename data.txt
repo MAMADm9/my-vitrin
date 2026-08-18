@@ -12,20 +12,6 @@ vless://1f5358e8-f57c-44b8-9864-9c236672fbc8@185.143.233.235:80?path=%2F#TEST_HT
 vless://99f3278e-79cc-4de5-919c-e6b48e4024c5@snappfood.ir:80?path=%2Fws#TEST_HTM
 vless://d4632a9f-8066-4bc8-ab8e-a63e90a84534@snapp.ir:80?path=%2F#TEST_HTM
 vless://54181d14-52af-4b53-9d6e-d0971279baed@snapp.ir:2086?path=%2F#TEST_HTM
-vless://1e3332a1-82d4-3c60-166b-5c54db9ff355@69.46.46.30:443?path=%2Fws%2F1e3332a1-82d4-3c60-166b-5c54db9ff355#planB_net
-vless://448170b8-9b4e-4b7e-a673-1bd95739db11@69.46.46.26:443?path=%2Fin1#planB_net
-trojan://humanity@104.19.229.21:443?path=%2Fassignment#planB_net
-vless://18907dc3-7e4c-476f-9ed8-b360db563bf9@172.67.143.139:8080?path=%2FeyJqdW5rIjoiN3FOeFprWFkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0#planB_net
-vless://16449c74-c8c9-48ae-8ead-9c2232553136@104.21.76.102:8080?path=%2F%3Fed%3D2048#planB_net
-vless://50414e45-4c5f-5a45-5553-3fe36527da68@104.18.250.213:443?path=%2Fapi%2Fws#planB_net
-vless://ce977d82-824b-4209-87f1-0719f78d6a2e@104.18.42.163:8880?security=none#planB_net
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.158.7.204:22223?security=none#planB_net
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.158.7.204:22224?security=none#planB_net
-trojan://humanity@104.16.72.41:443?path=%2Fassignment#planB_net
-vless://269c4c7d-6e37-4c63-9a8f-2f162bd892a3@185.103.100.134:4100?path=%2Fv1#planB_net
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:443?path=%2Ffp#planB_net
-vless://421ff04b-57c7-7e6b-a44b-f88e8d585e6f@69.46.46.10:443?path=%2Fws%2F421ff04b-57c7-7e6b-a44b-f88e8d585e6f#planB_net
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.193.240.71:22222?security=none#planB_net
 vless://018a9e2e-9bfd-4a9e-a20d-c07eb53fa439@91.234.39.183:8080?path=%2F#planB_net
 vless://8491e506-02d9-4ad7-8fce-73aae002cdf3@109.163.239.182:443?security=reality#planB_net
 vless://e5fc79a3-e331-f47d-ac58-ee616dceb901@69.46.46.20:443?path=%2Fws%2Fe5fc79a3-e331-f47d-ac58-ee616dceb901#planB_net
@@ -37,6 +23,7 @@ vless://b83f1f2a-089f-4f4d-a825-420300a463fe@104.21.8.34:2052?path=%2Fwss#planB_
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net#planB_net
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@45.8.211.57:443?path=%2Fhdgrbws#planB_net
 vless://d1da87ee-28d8-f2ae-1c2f-5b81d3b6679b@69.46.46.40:443?path=%2Fws%2Fd1da87ee-28d8-f2ae-1c2f-5b81d3b6679b#planB_net
+trojan://humanity@104.19.229.21:443?path=%2Fassignment#planB_net
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?path=%2FJ5aLQOY1R9ONWYCM#planB_net
 vless://7b9e5289-02e1-45e9-91dd-6e08deaafabe@130.185.122.175:8888?path=%2F#planB_net
 vless://883143ed-be74-48cc-fac4-3f54f4184374@185.126.236.181:2095?security=reality#planB_net
@@ -67,6 +54,7 @@ vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@104.17.121.110:443?path=%2Fhdgrbws#
 vless://cd60668d-28d0-4070-8179-47ad0d151dd5@82.202.247.181:443?security=reality#planB_net
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@199.181.197.1:443?path=%2Fhdgrbws#planB_net
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.4.103:443?security=reality#planB_net
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:443?path=%2Ffp#planB_net
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality#planB_net
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWTk0Q0w4SG91VXdFUEYz@4.168.234.5:443#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net#planB_net
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWTk0Q0w4SG91VXdFUEYz@4.168.234.5:443#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net#planB_net
