@@ -135,7 +135,6 @@ vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@142.91.105.104:443?security=reality
 vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=%2F#planB_net
 vless://0fe5364c-b21e-4338-a51c-1eb179999c4f@store2.vevluma.ir:1234?security=reality#planB_net
 vless://c6c03582-a4d2-4efe-9af1-83e730b11f9a@130.185.123.32:19896?security=none#planB_net
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi%2FTelegram-MTMVPN-Telegram-MTMVPN-Telegram-Telegram-MTMVPN-Telegram-MTMVPN-Telegram-MTMVPN-Telegram-MTMVPN-Telegram-MTMVPNMTMVPN-Telegram-MTMVPN-Telegram-MTMVPN-#planB_net
 vless://81a5be1e-aa3c-4c50-83c1-885050d8b880@tapsi-mall.topdigit.ir:34769?security=none#planB_net
 trojan://PQ05174892@51.44.167.144:443?security=tls#planB_net
 trojan://FH72359861@35.159.21.7:443?security=tls#planB_net
