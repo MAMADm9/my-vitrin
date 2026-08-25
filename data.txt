@@ -153,9 +153,12 @@ vless://3bcb31ef-840e-415d-abb3-28628add98d0@109.169.84.94:443?security=reality#
 vless://d67af820-f54c-48ab-862c-19086357f276@62.133.62.179:443?security=reality#planB_net
 vless://f82332b2-dc8c-eac4-ac12-f276e37e278a@45.155.70.123:8443?security=reality#planB_net
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:443?path=%2Ffp#planB_net
-vmess://eyJhZGQiOiIyMTMuMTU2LjE1Mi42MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkOTY4MTkxNi01YTg1LTQ0YzgtODZhMi05ZmNhZTg3Y2Y4NTAiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjgwODAiLCJwcyI6IvCdl53wnZe88J2XtvCdl7vinqBAUGxhbkJfbmV0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==#planB_net
-vless://8b7e1a51-0577-44f3-8d3f-0adefae7f82f@91.99.81.222:8443?security=reality#planB_net
-vless://d8b42cd5-b149-4356-9e61-222222222222@45.140.36.118:1054?security=none#planB_net
+vless://648abb82-c62d-4946-91f3-634a21c706ca@5.75.193.127:80?security=none#planB_net
+vless://57d48e3e-b4c5-483f-9bb8-391cdce9010a@91.99.81.222:443?security=reality#planB_net
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyT1B1U2xSNmgzWkhxbDNo@20.234.20.89:443#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net#planB_net
-vmess://eyJhZGQiOiI2NS4xMDkuMjExLjEzNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkOWM5MTljMi04NzJlLTQyOWQtYTY4MC0xZTZjNmJmZTY4MWIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjMzMTIwIiwicHMiOiLwnZed8J2XvPCdl7bwnZe74p6gQFBsYW5CX25ldCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=#planB_net
-vless://c6eb2ee5-0caf-45a0-8231-fb2a7124eb45@188.114.97.3:443?path=%2Fvl%2FcM3785YVsWU3WgqZ%3Fed%3D2560#planB_net
+vless://XlnTeam-39@199.232.78.160:443?path=%2F#planB_net
+vless://a0e48bd2-3360-486b-9042-ee17951d76da@66.163.118.75:11000?security=reality#planB_net
+vless://f651ca21-51b3-43b8-9764-de97e4880eca@162.159.233.81:443?path=%2Fxiron#planB_net
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.46.6:443?path=%2Fsg-amz#planB_net
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?mode=gun#planB_net
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.154.8:2095?path=%2F%3Fed%3D2560security%3Dtls#planB_net
