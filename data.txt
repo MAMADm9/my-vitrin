@@ -133,3 +133,15 @@ vless://cc24b2ac-26f2-48ad-9ce4-b2b37d14490a@pswed1.plasdomain.ir:32855?security
 vless://0dd9cfaa-cebd-4444-8778-70cb22737944@91.92.33.95:443?mode=gun#planB_net
 vless://0bc31c7f-1ee2-4dd3-929b-b61ae780eb3c@141.227.174.79:443?security=reality#planB_net
 trojan://humanity@104.18.152.97:443?path=%2Fassignment#planB_net
+vless://e65852a5-9d9e-48e0-b454-5df6a44c72d0@167.233.227.12:35443?security=reality#planB_net
+vless://8525fe74-67e6-4a55-8a26-95f227bd1384@104.21.70.21:8080?path=%2F#planB_net
+vless://98b6cb05-b5ab-4c82-8683-07de28f796a9@188.114.97.6:2086?path=%2FeyJqdW5rIjoiRHF6VWU4SmYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0#planB_net
+vless://78685e90-c5fd-4c01-9ff4-a63ea1cdc998@87.58.155.25:443?security=none#planB_net
+vless://5a5d23df-f6e5-432f-8eb4-9e8c0fd0fea8@37.114.38.32:31072?security=reality#planB_net
+trojan://humanity@172.67.149.60:443?path=%2Fassignment#planB_net
+vless://607f4f6c-2a71-43aa-e047-1ff5b5c23f67@k2.cloud--vpn.site:443?path=%2F#planB_net
+vless://a0ba4d1e-60e7-4362-8f82-33da87da8e88@167.233.227.12:35443?security=reality#planB_net
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.24:443?mode=gun#planB_net
+vless://2c7f1414-87ae-4a01-9796-a02c067891a6@176.109.88.216:443?security=reality#planB_net
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg4.univesalsrv.com:443?mode=gun#planB_net
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg3.univesalsrv.com:443?mode=gun#planB_net
