@@ -125,5 +125,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3MFlmZjY3anhkM3pYWTln@20.87.3.84:443#%F0%9D%
 vless://21710d7d-5e87-4655-bac2-36e9b655e3ee@85.209.157.184:443?security=reality#planB_net
 trojan://humanity@172.67.149.60:443?path=%2Fassignment#planB_net
 vless://b2593749-691c-428c-9481-14979cba3446@188.114.97.6:443?path=%2Fproxyip%3Dus.xiabibi.cf#planB_net
+vless://bd5bbbac-adc3-4b23-d3ac-8506694c0ef9@k2.cloud--vpn.site:443?path=%2F#planB_net
 vless://44eae030-290b-4083-8102-6f8bab05701b@104.21.89.41:443?path=%2F#planB_net
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3MFlmZjY3anhkM3pYWTln@20.87.3.84:443#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net#planB_net
+vless://6d773f72-d4af-47c9-fa3e-0e64b92da1c8@69.46.46.18:443?path=%2Fws%2F6d773f72-d4af-47c9-fa3e-0e64b92da1c8#planB_net
+vless://9d02f031-13c4-4d91-bbf3-cb2081e424b1@168.222.244.67:80?path=%2F#planB_net
