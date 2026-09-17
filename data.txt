@@ -111,3 +111,5 @@ vless://44eae030-290b-4083-8102-6f8bab05701b@104.18.26.90:443?path=%2F#planB_net
 vless://44eae030-290b-4083-8102-6f8bab05701b@188.114.97.6:443?path=%2F#planB_net
 vless://5fc7563b-552d-417f-9409-08ef92284599@192.248.182.183:39244?security=none#planB_net
 vless://b3ca949f-d536-44bf-a326-e4b8bcea81f9@max.karmatel.ir:55519?path=%2F#planB_net
+vless://44eae030-290b-4083-8102-6f8bab05701b@104.21.236.63:443?path=%2F#planB_net
+vless://44eae030-290b-4083-8102-6f8bab05701b@104.16.10.100:443?path=%2F#planB_net
