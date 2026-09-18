@@ -81,7 +81,7 @@ vless://a038b2f5-e826-4c6f-04d0-16faf5d1c5d9@aliopnop-production.up.railway.app:
 vless://e0bc6cd5-892b-4b4c-80e4-88ee92e05dc7@188.137.227.194:30393?security=reality#planB_net
 vless://b2ee150f-58eb-4125-8fae-b0f79544bd25@116.202.180.196:27812?security=reality#planB_net
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.32:443?mode=gun#planB_net
+vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@144.31.131.38:443?security=reality#planB_net
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQczRNU2M5UFVlalVrVzNF@68.219.211.88:443#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net#planB_net
 vless://8102891d-7b37-4dc5-8261-9474b59b5c63@188.114.97.6:443?path=%2Fproxyip%3Dus.xiabibi.cf#planB_net
-vmess://eyJhZGQiOiI0NS4zOS4zMy4xMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0ZDY5OTdjZi03ODU2LTRhYWItODVlNS1mMjIxNjllNTZlNjUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6Ijg0NDMiLCJwcyI6IvCdl53wnZe88J2XtvCdl7vinqBAUGxhbkJfbmV0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==#planB_net
-vless://70ef5717-4ed9-4890-b5f4-0589929a1165@172.66.146.2:2087?path=%2F#planB_net
+vless://60a2998c-cd85-562e-a3fd-396e4925dd3a@199.232.237.79:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#planB_net
