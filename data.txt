@@ -83,7 +83,7 @@ vless://1fa3ded2-4946-45ac-9f39-2a0e501e3d1f@filetransver-ultra.com:443?security
 trojan://humanity@www.speedtest.net:443?path=%2Fassignment#planB_net
 vless://b2cddf0c-4b1e-4c65-9457-8dd331c9fc41@185.204.171.83:14120?security=none#planB_net
 vless://029fc301-ac31-4aae-9fd8-5d0bff6ec5c0@a2.arshia-nova.ir:443?path=%2F#planB_net
-vless://b2593749-691c-428c-9481-14979cba3446@162.159.192.125:443?path=%2Fproxyip%3Dus.xiabibi.cf#planB_net
-vless://ff6e1028-b337-4062-a4db-86c784a9cdb4@78.17.131.25:8443?security=reality#planB_net
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQjJKOE12VHQyU0JnRDZv@20.238.35.153:443#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net#planB_net
 vless://44eae030-290b-4083-8102-6f8bab05701b@104.21.34.106:443?path=%2F#planB_net
+vless://b2593749-691c-428c-9481-14979cba3446@162.159.192.125:443?path=%2Fproxyip%3Dus.xiabibi.cf#planB_net
+vless://60a361f9-3c45-4954-9e4c-92a85bda243d@31.184.244.162:2053?mode=gun#planB_net
+trojan://humanity@8.47.69.0:443?path=%2Fassignment#planB_net
