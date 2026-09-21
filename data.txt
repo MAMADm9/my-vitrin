@@ -70,7 +70,7 @@ vless://44eae030-290b-4083-8102-6f8bab05701b@104.21.63.28:443?path=%2F#planB_net
 vless://b2593749-691c-428c-9481-14979cba3446@188.114.97.6:443?path=%2Fproxyip%3Dus.xiabibi.cf#planB_net
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYU45WFV3aHZxMXVqbHNP@4.221.224.246:443#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net#planB_net
 vless://1fac5e18-2ca8-4626-c299-1f3f21c6b55e@k2.cloud--vpn.site:443?path=%2F#planB_net
-vless://bf8c34f4-3c93-4428-8042-8834662d75e6@5.149.248.227:443?security=reality#planB_net
+vless://71ea59d0-0469-40d2-bc82-76481a815f98@89.116.250.135:8880?path=%2F%3Fed%3D2082#planB_net
+vless://71ea59d0-0469-40d2-bc82-76481a815f98@cdn.devmixa.ir:8880?path=%2F%3Fed%3D2082#planB_net
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYU45WFV3aHZxMXVqbHNP@4.221.224.246:443#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net#planB_net
-vless://c07c7900-54a6-41a7-996c-4658b987fe69@185.255.179.54:56789?security=reality#planB_net
-vless://c795bdd5-0460-42bd-927b-fbff154d2ab5@150.241.71.245:443?security=reality#planB_net
+vless://71ea59d0-0469-40d2-bc82-76481a815f98@83.136.251.28:443?security=none#planB_net
