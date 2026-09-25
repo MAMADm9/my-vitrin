@@ -123,8 +123,11 @@ vless://7078671a-5c91-4dfa-8606-dcf52e222599@176.109.100.227:8644?security=reali
 vless://bff43cfe-8222-4b33-a13d-8e759caefa8a@188.137.235.28:56413?security=reality#planB_net
 vless://44557727-e197-45c5-9637-d8455491fa9a@124.156.230.31:48795?security=reality#planB_net
 vless://59d04d18-3215-4342-9bc9-368474d4b1ba@69.46.46.131:443?path=%2Fws%2Fvless%2F59d04d18-3215-4342-9bc9-368474d4b1ba%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#planB_net
-vless://6933bb34-cb01-4605-88c3-f335e4307d23@37.221.79.226:18443?security=reality#planB_net
+vless://982f76d7-87a4-4691-ab24-a6fa0d501aa9@151.101.56.7:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#planB_net
+vless://b229d38c-35ec-4a0b-9c86-8fceba243d6c@201.7.25.126:24446?mode=gun#planB_net
+vmess://eyJhZGQiOiI5My4xMTQuOTguMjIxIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6Ii8/VGVsZWdyYW0tLS1QTEFOQl9ORVQtLS1QTEFOQl9ORVQtLS1QTEFOQl9ORVQtLS1QTEFOQl9ORVQiLCJpZCI6IjU1MmNhMWUyLWQxZDQtNGQ5ZC1iMGVhLTlmYWJkMjg3YWQxNCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjA4MyIsInBzIjoi8J2XnfCdl7zwnZe28J2Xu+KeoEBQbGFuQl9uZXQiLCJzY3kiOiJhdXRvIiwic25pIjoiMDBpd3VhZmkxMDE5LmRvcGdhbmdzdGVyLmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==#planB_net
+vless://bda35755-c838-49c3-a19e-3712f2d54275@163.128.99.14:443?security=reality#planB_net
 trojan://humanity@188.114.97.7:443?path=%2Fassignment%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#planB_net
-trojan://humanity@render.com:443?path=%2Fassignment%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#planB_net
-vless://405b964e-a2d2-454f-aaaa-711cc218897c@5.253.28.240:40443?security=reality#planB_net
-vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@2.26.11.234:9543?security=reality#planB_net
+vless://552ca1e2-d1d4-4d9d-b0ea-9fabd287ad14@93.114.98.221:443?security=tls#planB_net
+vless://59dc89dd-873b-46c5-80a7-91437406fe8b@65.109.176.251:443?security=reality#planB_net
+vless://54584a23-c415-4d23-a35e-632282e96b9b@31.56.184.137:44450?security=reality#planB_net
