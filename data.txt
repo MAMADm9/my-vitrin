@@ -104,3 +104,8 @@ trojan://MiTiVPN@167.82.76.7:443?path=%3Fed%23Telegram---PLANB_NET---PLANB_NET--
 trojan://MiTiVPN@151.101.56.7:443?path=%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#planB_net
 trojan://MiTiVPN@199.232.78.188:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#planB_net
 trojan://humanity@render.com:443?path=%2Fassignment%3FedTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#planB_net
+vless://4cb23ec6-c295-47b8-800a-315d8e43d1ac@66.33.22.237:54233?security=reality#planB_net
+vless://ff09e086-67eb-4b4d-9d2f-dadfd22ec697@Tur6.pconnectq.ir:443?security=reality#planB_net
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?path=%2Ffp%3Dchrome%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET%3Fed%3D512#planB_net
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVYmt5ckt2T3RmU2QyeFFi@20.164.220.189:443#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net#planB_net
+vless://4cb23ec6-c295-47b8-800a-315d8e43d1ac@69.46.46.69:443?mode=auto#planB_net
