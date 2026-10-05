@@ -100,3 +100,4 @@ vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@157.228.128.59:443?security=reality
 vless://a45dbb94-2b77-4193-86d5-ddd173764c79@88.218.42.194:443?security=reality#planB_net
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZkduS2dQOGs4RUhGdXZq@20.107.219.181:443#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net#planB_net
 trojan://mitivpn@199.232.78.101:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#planB_net
+vless://1914f082-3a6e-71f4-3ecb-de50c6b17670@nice.iranapplecenter.com:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E#planB_net
