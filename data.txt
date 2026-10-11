@@ -100,3 +100,9 @@ vless://51d039b4-6232-43fa-9161-46748776317c@199.232.78.159:443?pcs=CD6E838B9BFE
 vless://a702fd30-aea7-4a07-8a6e-cef67e3ec9ef@146.75.57.111:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E#planB_net
 vless://249cce58-48ab-49a0-8aa1-fb8cd68a1104@84.200.62.56:443?security=reality#planB_net
 vless://e6df2095-a73c-4043-8693-8d5a03686870@31.77.126.2:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#planB_net
+vless://f62df9d7-8491-4214-9ef1-40af4a5914ec@31.57.157.54:8080?security=reality#planB_net
+vless://accfae78-b31c-47cb-86a1-bb9a07973e4a@87.242.95.150:8448?security=reality#planB_net
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@144.31.156.82:443?security=reality#planB_net
+vless://7e68e32f-8015-4f37-9082-70e8b0b58043@15.164.245.92:443?security=reality#planB_net
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMHd4YzNSVVl3eEl6S1Nm@20.164.201.229:443#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net#planB_net
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHYXlZYTJWN3BVYkpCZkt1@20.234.97.18:443#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net#planB_net
