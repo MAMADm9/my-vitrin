@@ -12,15 +12,6 @@ vless://1f5358e8-f57c-44b8-9864-9c236672fbc8@185.143.233.235:80?path=%2F#TEST_HT
 vless://99f3278e-79cc-4de5-919c-e6b48e4024c5@snappfood.ir:80?path=%2Fws#TEST_HTM
 vless://d4632a9f-8066-4bc8-ab8e-a63e90a84534@snapp.ir:80?path=%2F#TEST_HTM
 vless://54181d14-52af-4b53-9d6e-d0971279baed@snapp.ir:2086?path=%2F#TEST_HTM
-vless://888f2af0-a5d2-4562-9893-c125d2d1f131@193.233.112.123:5434?security=reality#planB_net
-vless://0ecd76fc-6888-44d2-b97f-4f9ba66c55f2@91.107.247.174:443?security=reality#planB_net
-vless://d0136cca-a5a5-4c70-87dd-ce2ef76b7f82@146.75.57.238:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#planB_net
-trojan://%6D%69%74%69%76%70%6E@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#planB_net
-trojan://%6D%69%74%69%76%70%6E@199.232.9.244:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#planB_net
-vless://f9a9aa1f-75fb-4490-9155-85567af7a0ff@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E#planB_net
-vless://f9a9aa1f-75fb-4490-9155-85567af7a0ff@199.232.78.160:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E#planB_net
-vless://f9a9aa1f-75fb-4490-9155-85567af7a0ff@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E#planB_net
-trojan://%6D%69%74%69%76%70%6E@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#planB_net
 vless://63c5f8b3-3d3d-46a9-ae1f-58635cdaf891@185.121.179.122:443?security=reality#planB_net
 vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.11:8443?security=reality#planB_net
 vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.19.145.193:443?path=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#planB_net
@@ -105,3 +96,7 @@ vless://780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7@wwww.qarvian.ir:443?pcs=CD6E838B9BF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.28:8080#Telegram%20%F0%9F%91%89%F0%9F%8F%BC%20%40planB_net%20%20%E2%80%A2%2008#planB_net
 vless://780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E#planB_net
 vless://5254c281-3bc1-40ee-ba89-1aaf8c251402@88.216.70.92:443?security=reality#planB_net
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.28:8080#Telegram%20%F0%9F%91%89%F0%9F%8F%BC%20%40planB_net%20%20%E2%80%A2%2002#planB_net
+trojan://%4D%69%54%69%56%50%4E@199.232.78.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#planB_net
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls#planB_net
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoTmZlTENOM1h6WWdMRlNBV29fZnhPbDRIQzFnTncwVg@dns27.m3hrzd.ir:8044#Telegram%20%F0%9F%91%89%F0%9F%8F%BC%20%40planB_net%20%20%E2%80%A2%2011#planB_net
