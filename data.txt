@@ -130,3 +130,6 @@ vless://b229d38c-35ec-4a0b-9c86-8fceba243d6c@95.129.234.108:8443?mode=auto#planB
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@book.jarbook.net:443?security=reality#planB_net
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@88.216.70.39:443?security=reality#planB_net
 trojan://gHQP0D7D15@172.67.118.45:2053?path=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#planB_net
+vless://90157e25-cee1-4217-921e-91f300bc1a24@ee.subv.ru:443?security=reality#planB_net
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality#planB_net
+vless://da03af6b-a490-4064-8100-d91194e086b6@154.21.89.67:18889?security=reality#planB_net
