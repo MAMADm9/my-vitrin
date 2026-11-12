@@ -100,3 +100,7 @@ vless://6430ede6-3f43-4beb-95c0-0fb29e9ea76d@estonia2.banovano.space:17417?mode=
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@162.159.198.1:443?path=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#planB_net
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#Telegram%20%F0%9F%91%89%F0%9F%8F%BC%20%40planB_net%20%20%E2%80%A2%2010#planB_net
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@83.217.201.82:443?security=reality#planB_net
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?security=reality#planB_net
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.89:443?security=reality#planB_net
+vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@fast.145779.xyz:2053?path=%2Fws-tesla%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#planB_net
+vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLz9lZCNUZWxlZ3JhbS0tLVBMQU5CX05FVC0tLVBMQU5CX05FVC0tLVBMQU5CX05FVC0tLVBMQU5CX05FVCIsInBjcyI6IiIsInBvcnQiOiI4MCIsInBzIjoiVGVsZWdyYW0g8J+RifCfj7wgQHBsYW5CX25ldCAg4oCiIDA5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==#planB_net
