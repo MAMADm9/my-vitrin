@@ -13,6 +13,7 @@ vless://99f3278e-79cc-4de5-919c-e6b48e4024c5@snappfood.ir:80?path=%2Fws#TEST_HTM
 vless://d4632a9f-8066-4bc8-ab8e-a63e90a84534@snapp.ir:80?path=%2F#TEST_HTM
 vless://54181d14-52af-4b53-9d6e-d0971279baed@snapp.ir:2086?path=%2F#TEST_HTM
 vmess://ewogICJhZGQiIDogIjE1NC40Ny4xOS4yMjUiLAogICJhaWQiIDogIjAiLAogICJhbHBuIiA6ICIiLAogICJmcCIgOiAiIiwKICAiaWQiIDogIjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsCiAgImluc2VjdXJlIiA6ICIwIiwKICAibmV0IiA6ICJ0Y3AiLAogICJwY3MiIDogIiIsCiAgInBvcnQiIDogIjE…#isor1n
+trojan://FZXarVErp6-t8xoq-JZX6Q@575a1bb9b4a56712575a1bb9b4a56712575a1bb9b4a56712.valfena.ir:4075?security=tls#isor1n
 vless://713142c9-ad09-4894-b35c-645423f3f6c9@mirror.embrofree.org:443?security=reality#planB_net
 vless://9a597d68-6688-4046-bf24-a5a541e115e0@135.136.33.134:8443?security=reality#planB_net
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#Telegram%20%F0%9F%91%89%F0%9F%8F%BC%20%40planB_net%20%20%E2%80%A2%2003#planB_net
